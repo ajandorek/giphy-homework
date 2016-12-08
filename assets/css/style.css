@@ -1,0 +1,31 @@
+@font-face {
+    font-family: pixel;
+    src: url(../fonts/PressStart2P.ttf);
+}
+
+button {
+	margin: 5px;
+  	color: #fff;
+  	background-color: #6496c8;
+  	text-shadow: -1px 1px #417cb8;
+  	border: none;
+  	padding: 5px;
+  	border-radius: 4px;
+  	font-family: pixel;
+}
+
+body {
+	width: 100%;
+	background-image: url(../images/pixel_weave.png);
+}
+
+#add-game {
+	margin: 5px;
+	background-color: #4CAF50;
+	color: white;
+	text-shadow: -1px 1px #417cb8;
+  	border: none;
+  	padding: 5px;
+  	border-radius: 4px;
+  	font-family: pixel;
+}
